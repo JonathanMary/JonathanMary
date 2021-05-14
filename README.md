@@ -25,4 +25,6 @@ I currently work on [HRF Asylum](https://github.com/Lambda-School-Labs/human-rig
 ![Git](https://img.shields.io/badge/Git-2E3440?style=for-the-badge&logo=Git)
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=jonathanmary&show_icons=true&locale=en&&theme=nord&&layout=compact&hide_border=true&count_private=true&line_height=23&border_radius=false" alt="jonathanmary" />
