@@ -7,8 +7,6 @@ One day I'll have a very nice website to show you maybe, but for now you can con
 - [Linkedin](https://www.linkedin.com/in/jonathan-mary/)
 - jon85ma@gmail.com.
 
-I currently work on learning some Java and data structures/algorithms.
-
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
